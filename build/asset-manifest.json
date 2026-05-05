@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.251a08c6.css",
+    "main.js": "/static/js/main.91e09bcf.js",
+    "static/js/453.065b7a0e.chunk.js": "/static/js/453.065b7a0e.chunk.js",
+    "static/media/producto-keratina.png": "/static/media/producto-keratina.6ae6c30c3cd3c088bb78.png",
+    "static/media/logo-colombia.png": "/static/media/logo-colombia.f7209b472e1aefb55bf5.png",
+    "index.html": "/index.html",
+    "main.251a08c6.css.map": "/static/css/main.251a08c6.css.map",
+    "main.91e09bcf.js.map": "/static/js/main.91e09bcf.js.map",
+    "453.065b7a0e.chunk.js.map": "/static/js/453.065b7a0e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.251a08c6.css",
+    "static/js/main.91e09bcf.js"
+  ]
+}
